@@ -1,0 +1,31 @@
+{
+  "name": "gitify",
+  "version": "1.0.0",
+  "description": "Utility to make initial git process faster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Git",
+    "Node.js",
+    "Terminal"
+  ],
+  "author": "Daksh Gautam",
+  "license": "ISC",
+  "bin": {
+    "gitify": "./index.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^15.8.1",
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "configstore": "^3.1.2",
+    "figlet": "^1.2.0",
+    "inquirer": "^6.0.0",
+    "minimist": "^1.2.0",
+    "ora": "^2.1.0",
+    "simple-git": "^1.96.0",
+    "touch": "^3.1.0"
+  }
+}
