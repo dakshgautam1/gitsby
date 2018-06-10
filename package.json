@@ -1,5 +1,5 @@
 {
-  "name": "gitify",
+  "name": "gitsby",
   "version": "1.0.0",
   "description": "Utility to make initial git process faster",
   "main": "index.js",
@@ -14,7 +14,7 @@
   "author": "Daksh Gautam",
   "license": "ISC",
   "bin": {
-    "gitify": "./index.js"
+    "gitsby": "./index.js"
   },
   "dependencies": {
     "@octokit/rest": "^15.8.1",
