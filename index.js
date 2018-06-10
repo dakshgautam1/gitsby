@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 'use strict';
 
 const clear = require('clear');
@@ -67,10 +66,4 @@ const main = async() => {
   
 }
 
-
-
 main();
-
-
-
-
