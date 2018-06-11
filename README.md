@@ -1,6 +1,6 @@
 # GITSBY
 
-Gitsby is a CLI application that lets you speed up "git" initialization process faster.
+Gitsby is a CLI application that lets you speed up `git` initialization process faster.
 
 It performs following actions with one command:
 1. Creates `.gitignore` file. 
