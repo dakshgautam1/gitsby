@@ -1,6 +1,6 @@
 {
   "name": "gitsby",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Command Line Utility that speeds up git initialization process.",
   "main": "index.js",
   "scripts": {
