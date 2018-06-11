@@ -16,6 +16,10 @@
   "bin": {
     "gitsby": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dakshgautam1/gitsby.git"
+  },
   "dependencies": {
     "@octokit/rest": "^15.8.1",
     "chalk": "^2.4.1",
