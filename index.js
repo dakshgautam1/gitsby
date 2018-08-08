@@ -15,7 +15,7 @@ const repoDetails = require('./lib/questions/getRepositoryDetails');
 clear();
 
 console.log(chalk.green(
-  figlet.textSync('Gitify', {
+  figlet.textSync('Gitsby', {
     font: "3D-ASCII",
     horizontalLayout: "full",
   })
